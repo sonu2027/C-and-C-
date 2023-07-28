@@ -1,0 +1,2 @@
+the no is 45
+thank you for using fprintf
